@@ -1,0 +1,12 @@
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\bin\Debug\gpProje.exe.config
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\bin\Debug\gpProje.exe
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\bin\Debug\gpProje.pdb
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\obj\Debug\gpProje.csproj.AssemblyReference.cache
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\obj\Debug\gpProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\obj\Debug\gpProje.Form1.resources
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\obj\Debug\gpProje.Properties.Resources.resources
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\obj\Debug\gpProje.csproj.GenerateResource.cache
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\obj\Debug\gpProje.csproj.CoreCompileInputs.cache
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\obj\Debug\gpProje.exe
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\obj\Debug\gpProje.pdb
+C:\Users\aysuk\OneDrive\Masaüstü\gpProje\obj\Debug\gpProje.Form2.resources
