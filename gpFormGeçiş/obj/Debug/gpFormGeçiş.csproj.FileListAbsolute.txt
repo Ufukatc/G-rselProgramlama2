@@ -1,0 +1,13 @@
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\bin\Debug\gpFormGeçiş.exe.config
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\bin\Debug\gpFormGeçiş.exe
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\bin\Debug\gpFormGeçiş.pdb
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\obj\Debug\gpFormGeçiş.csproj.AssemblyReference.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\obj\Debug\gpFormGeçiş.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\obj\Debug\gpFormGeçiş.Form1.resources
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\obj\Debug\gpFormGeçiş.Form2.resources
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\obj\Debug\gpFormGeçiş.Form3.resources
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\obj\Debug\gpFormGeçiş.Properties.Resources.resources
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\obj\Debug\gpFormGeçiş.csproj.GenerateResource.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\obj\Debug\gpFormGeçiş.csproj.CoreCompileInputs.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\obj\Debug\gpFormGeçiş.exe
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\gpFormGeçiş\obj\Debug\gpFormGeçiş.pdb
