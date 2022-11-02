@@ -1,0 +1,12 @@
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\bin\Debug\BP_GP_Library.exe.config
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\bin\Debug\BP_GP_Library.exe
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\bin\Debug\BP_GP_Library.pdb
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\obj\Debug\BP_GP_Library.csproj.AssemblyReference.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\obj\Debug\BP_GP_Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\obj\Debug\BP_GP_Library.AddBook.resources
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\obj\Debug\BP_GP_Library.MainScreen.resources
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\obj\Debug\BP_GP_Library.Properties.Resources.resources
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\obj\Debug\BP_GP_Library.csproj.GenerateResource.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\obj\Debug\BP_GP_Library.csproj.CoreCompileInputs.cache
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\obj\Debug\BP_GP_Library.exe
+C:\Users\aysuk\OneDrive\Masaüstü\ufuk\vs\form app\BP_GP_Library\BP_GP_Library\obj\Debug\BP_GP_Library.pdb
